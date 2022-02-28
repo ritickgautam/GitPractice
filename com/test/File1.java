@@ -9,5 +9,9 @@ public class File1
   {
 
     System.out.println("Hi from Ecllipse");
+    int l = 6;
+    System.out.println(l/2);
   }
 }
+
+
